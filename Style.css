@@ -1,0 +1,14 @@
+
+/* Flux - Bitwig-inspired dark theme */
+/* Place in: data/themes/flux/style.css */
+
+QMainWindow { background: #1A1A1A; }
+QWidget { background: #1A1A1A; color: #E6E6E6; selection-background-color: #FF7A00; }
+TrackContainerView { background: #121212; }
+TrackView { background: #1E1E1E; border-bottom: 1px solid #2A2A2A; }
+TrackContentObjectView { background: transparent; }
+MixerView { background: #151515; }
+PianoRoll { background: #0E0E0E; }
+PianoView { background: #1E1E1E; border-right: 1px solid #2A2A2A; }
+QPushButton { background: #2A2A2A; border: 1px solid #3A3A3A; border-radius: 4px; padding: 4px 10px; }
+QPushButton:hover { background: #3A3A3A; border: 1px solid #FF7A00; }
